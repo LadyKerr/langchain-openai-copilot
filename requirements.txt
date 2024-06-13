@@ -1,0 +1,10 @@
+docarray
+python-dotenv
+pandas
+ipython
+langchain
+langchain_openai
+langchain-community
+langchain-core
+langchain-openai
+langchain-text-splitters
