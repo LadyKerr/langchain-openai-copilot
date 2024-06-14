@@ -39,4 +39,5 @@ def llm_key_terms():
 - build a LLM from scratch repo: https://github.com/rasbt/LLMs-from-scratch
 - what is RAG: https://github.blog/2024-04-04-what-is-retrieval-augmented-generation-and-what-does-it-do-for-generative-ai/ 
 - fine tuning LLMs: https://github.blog/2024-02-28-customizing-and-fine-tuning-llms-what-you-need-to-know/ 
-- using GitHub Copilot: https://github.blog/2024-03-25-how-to-use-github-copilot-in-your-ide-tips-tricks-and-best-practices/ 
+- using GitHub Copilot: https://github.blog/2024-03-25-how-to-use-github-copilot-in-your-ide-tips-tricks-and-best-practices/
+- visualize tokens: https://platform.openai.com/tokenizer
